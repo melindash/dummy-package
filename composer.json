@@ -1,0 +1,7 @@
+{
+  "name": "melindash/dummy-package",
+  "description": "Dummy Package for Packagist Vendor Registration",
+  "license": [
+    "MIT",
+  ],
+}
